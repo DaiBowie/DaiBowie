@@ -47,7 +47,7 @@ A calm, private iPhone app that brings your plans, food, wellbeing and everyday 
 | October 2026 | The idea, and the first designs |
 | 12 days later | A full working version on the web, every screen designed and tested |
 | November 2026 | The design locked as the blueprint for the real app |
-| Now | Wolf coding the real iPhone and iPad app |
+| Now | Wolf getting set up to code the real iPhone and iPad app |
 | Next | Friends and family try it (UK, United States and Canada), then the App Store |
 | Later | Android |
 
