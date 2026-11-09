@@ -91,6 +91,7 @@ No mailing list and no sign-up, because privacy means privacy. Everything offici
 - 📰 **[News](https://leafvella.daibowie.workers.dev/news.html)**, newest first
 - 📡 **[News feed](https://leafvella.daibowie.workers.dev/feed.xml)** for any news reader app (it never tells me who you are)
 - 🧭 **[What's coming](https://leafvella.daibowie.workers.dev/coming.html)**
+- 💬 **[Community on YouTube](https://www.youtube.com/@daibowie/community)**, to chat and follow along (optional, run by YouTube)
 
 ---
 
