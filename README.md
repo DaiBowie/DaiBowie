@@ -96,3 +96,5 @@ No mailing list and no sign-up, because privacy means privacy. Everything offici
 ---
 
 <sub>Need help right now? Leafvella isn't an emergency service. In the UK call 999, or Samaritans on 116 123. In the US and Canada call 911, or 988.</sub>
+
+<sub>Leafvella™ and the Leafvella leaf logo are trade marks of Leafvella.</sub>
