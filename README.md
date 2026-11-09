@@ -18,7 +18,7 @@ I'm a designer and creator at heart. I design how something should look and feel
 - 🔭 **Working on:** Leafvella, a calm, private app for everyday life
 - 🎨 **My part:** product design, every screen, the standards, and testing on my own iPhone first
 - 🌱 **Learning:** how a real iPhone app is built, step by step
-- 🤝 **Building with:** Wolf, my co-founder and lead developer, who prefers to stay anonymous
+- 🤝 **Building with:** Wolf, my co-founder and lead developer, who prefers to stay anonymous and codes the finished app
 - 💬 **Ask me about:** accessible design, privacy-first apps, and designing visually first
 
 ---
@@ -47,16 +47,20 @@ A calm, private iPhone app that brings your plans, food, wellbeing and everyday 
 | October 2026 | The idea, and the first designs |
 | 12 days later | A full working version on the web, every screen designed and tested |
 | November 2026 | The design locked as the blueprint for the real app |
-| Now | The iPhone and iPad app being built |
+| Now | Wolf coding the real iPhone and iPad app |
 | Next | Friends and family try it (UK, United States and Canada), then the App Store |
 | Later | Android |
 
+### How it's made
+
+1. **I design it:** every screen, every word, and the standards it's held to.
+2. **AI set it up:** the working demo, the blueprint and the testing tools, so it was possible to get this far, this fast.
+3. **Wolf codes the real app:** the Leafvella you'll download is Wolf's app, coded from that blueprint step by step. In time, every part of the finished app will be her code.
+
 ### Built with
 
-Designed by me, built with AI as a pair programmer, and checked at every step.
-
-- **iPhone and iPad:** Swift and SwiftUI, Liquid Glass, Siri and Shortcuts
-- **Web demo and website:** HTML, CSS and JavaScript, with no outside libraries, fonts or tracking
+- **iPhone and iPad (coded by Wolf):** Swift and SwiftUI, Liquid Glass, Siri and Shortcuts
+- **Web demo and website:** HTML, CSS and JavaScript, set up with AI, with no outside libraries, fonts or tracking
 - **Hosting:** Cloudflare
 - **Testing:** automated checks for every screen in light and dark (contrast, labels, tap sizes, text size), plus my own iPhone
 
