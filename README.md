@@ -19,6 +19,7 @@ I'm a designer and creator at heart. I design how something should look and feel
 - 🎨 **My part:** product design, every screen, the standards, and testing on my own iPhone first
 - 🌱 **Learning:** how a real iPhone app is built, step by step
 - 🤝 **Building with:** Wolf, my co-founder and lead developer, who prefers to stay anonymous and codes the finished app
+- ✉️ **Get in touch:** the private contact form on [Leafvella's Support page](https://leafvella.daibowie.workers.dev/support.html#message). No account or email needed (opening as soon as our inbox is set up).
 - 💬 **Ask me about:** accessible design, privacy-first apps, and designing visually first
 
 ---
